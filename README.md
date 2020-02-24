@@ -1,13 +1,11 @@
 # Landing Page Project
+### Creator: Adam Simonar + Udacity Engineers
 
-## Table of Contents
+## Instructions To Run
 
-* [Instructions](#instructions)
+Download project files. Open 'index.html' in any browser to set the site in action.
+The navigation bar will be built dynamically based on the amount of sections within the webpage.
 
-## Instructions
+Clicking any of these sections will auto scroll you to their part of the webpage.
 
-The starter project has some HTML and CSS styling to display a static version of the Landing Page project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
-
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the Udacity Classroom.
+You can tell  what section you are on as it will be highlighted and have some bubbles floating showing it is active.
